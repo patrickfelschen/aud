@@ -1,0 +1,11 @@
+Zeiten für Quicksort (Standard-Lomuto Partition): 
+100.000 Zahlen:			18ms
+1.000.000 Zahlen:		74ms
+5.000.000 Zahlen:		425ms
+100.000 sortierte Zahlen:	5069ms
+
+Zeiten für Quicksort (Median-von-3 Lomuto Partition): 
+100.000 Zahlen:			20ms
+1.000.000 Zahlen:		81ms
+5.000.000 Zahlen:		446ms
+100.000 sortierte Zahlen:	2ms

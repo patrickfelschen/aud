@@ -1,0 +1,1 @@
+Hoehe bei 10000 aufsteigenden Knoten: 24
